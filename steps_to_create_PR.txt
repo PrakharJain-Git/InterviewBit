@@ -1,0 +1,7 @@
+git checkout -b NEW_BRANCH_NAME
+make your changes (either  make it directly here or make it somewhere and then copy it here)
+git status (to check the of status of changes)
+git add -A (for all) or simply do git add modified files
+git commit -m "DESCRIPTION"
+git push origin NEW_BRANCH_NAME
+go to remote git and create PR
